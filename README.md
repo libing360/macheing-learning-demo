@@ -1,3 +1,4 @@
 macheing-learning-demo
 
-learn machine learning
+1,decision tree
+2,Naive Bayes
